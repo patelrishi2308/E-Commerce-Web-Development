@@ -1,4 +1,4 @@
-# E-Commerce-Web-Development   (at Helicore Info Pvt.Ltd))
+# E-Commerce-Web-Development   (at Helicore Info Pvt.Ltd)
 
 [Link](https://theradiantearth.com/) to the website.
 
@@ -19,5 +19,6 @@ For in-depth understanding, including methodologies, technologies used, and chal
 
 -> As an E-Commerce Web Developer Intern, designed and executed two WordPress-based online stores, employing Agile methodologies for 
 efficient project management. 
+
 -> Optimized user experience and interface, leading to a 30% increase in customer engagement and interaction with the websites. 
  
